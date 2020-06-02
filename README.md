@@ -8,3 +8,5 @@
 	* 很适合嵌入式平台用的轻量级图形界面，编译后打开一个PDF文件，发现里面的图片是看不到的
 * 于是我在找kindle的资料的时候发现有个[koreader](https://github.com/koreader/koreader)软件
 	* 很满足我的胃口
+**koreader**
+*软件的话用koreader.<>
