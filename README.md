@@ -9,4 +9,6 @@
 * 于是我在找kindle的资料的时候发现有个[koreader](https://github.com/koreader/koreader)软件
 	* 很满足我的胃口
 **koreader**
-*软件的话用koreader.<>
+*软件的话用koreader.<br>
+*现在就差把屏幕坐标对应起来<br>
+
