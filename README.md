@@ -8,7 +8,7 @@
 	* 很适合嵌入式平台用的轻量级图形界面，编译后打开一个PDF文件，发现里面的图片是看不到的
 * 于是我在找kindle的资料的时候发现有个[koreader](https://github.com/koreader/koreader)软件
 	* 很满足我的胃口
-**koreader**
+**koreader**<br>
 *软件的话用koreader.<br>
 *现在就差把屏幕坐标对应起来<br>
 *看了一晚上的代码还是没有进展，还是SDL的问题。<br>
