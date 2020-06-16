@@ -9,8 +9,9 @@
 * 于是我在找kindle的资料的时候发现有个[koreader](https://github.com/koreader/koreader)软件
 	* 很满足我的胃口
 **koreader**<br>
-*软件的话用koreader.<br>
-*现在就差把屏幕坐标对应起来<br>
-*看了一晚上的代码还是没有进展，还是SDL的问题。<br>
-*把SDL好好整理一下<br>
-[SDL资料](https://tieba.baidu.com/p/2682080782?red_tag=2799053608#)
+	*软件的话用koreader.<br>
+	*现在就差把屏幕坐标对应起来<br>
+	*看了一晚上的代码还是没有进展，还是SDL的问题。<br>
+	*把SDL好好整理一下<br>
+	*[SDL资料](https://tieba.baidu.com/p/2682080782?red_tag=2799053608#)<br>
+	*修改完成后，想办法导入lua程序种。<br>
