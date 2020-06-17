@@ -15,3 +15,4 @@
 	*把SDL好好整理一下<br>
 	*[SDL资料](https://tieba.baidu.com/p/2682080782?red_tag=2799053608#)<br>
 	*修改完成后，想办法导入lua程序种。<br>
+        *修改SDL中的坐标值是正确的。<br>
