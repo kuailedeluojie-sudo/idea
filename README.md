@@ -24,3 +24,5 @@
         *现在移植库的时候遇到交叉编译器版本过低的问题，主要是sysrepo这个库。<br>
 	*cmake的一些知识点
 	*借助开源的力量来做事好一些。
+	*第一次遇到"/home/mo/share/gcc-4.4.4-glibc-2.11.1-multilib-1.0/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/bin/ld: warning: libcrypto.so.1.1, needed by /home/mo/share/netconf2/lib/libssh/_install/lib/libssh.so.4.8.1, not found (try using -rpath or -rpath-link)
+/home/mo/share/gcc-4.4.4-glibc-2.11.1-multilib-1.0/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/bin/ld: warning: libssl.so.1.1, needed by /home/mo/share/netconf2/lib/libnetconf2/_install/lib/libnetconf2.so.1.3.5, not found (try using -rpath or -rpath-link)"
