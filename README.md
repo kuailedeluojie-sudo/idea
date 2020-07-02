@@ -45,3 +45,4 @@ systemctl set-default multi-user.target由图形界面模式更改为命令行�
 【6版本】
 
 直接设置这里的数字（3—命令行，5—图形化）就ok：
+编译成功了。
