@@ -51,3 +51,4 @@ systemctl set-default multi-user.target由图形界面模式更改为命令行�
 asm/errno.h: No such file or directory
 
 ln -s /usr/include/asm-generic /usr/include/asm
+尝试自己zuo'yi
