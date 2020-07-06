@@ -51,5 +51,7 @@ systemctl set-default multi-user.target由图形界面模式更改为命令行�
 asm/errno.h: No such file or directory
 
 ln -s / usr / include / asm通用/ usr / include / asm
+首先树莓派3B+是可以正常上网的。
+[!https://www.jianshu.com/p/ce9110c0a1a9]
 
 
