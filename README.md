@@ -55,3 +55,4 @@ ln -s / usr / include / asm通用/ usr / include / asm
 [!https://www.jianshu.com/p/ce9110c0a1a9]
 
 
+他想的那么难
