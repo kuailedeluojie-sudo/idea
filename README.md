@@ -55,4 +55,4 @@ ln -s / usr / include / asm通用/ usr / include / asm
 [!https://www.jianshu.com/p/ce9110c0a1a9]
 
 
-他想的那么难
+开始在现在的基础上把netopeer2的代码熟悉然后嵌入到现在的程序中。
